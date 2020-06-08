@@ -1,7 +1,7 @@
 {
 "companyName": "LightPixel",
 "productName": "Backspin Flying",
-"productVersion": "0.1",
+"productVersion": "0.4",
 "dataUrl": "webgl.data.unityweb",
 "wasmCodeUrl": "webgl.wasm.code.unityweb",
 "wasmFrameworkUrl": "webgl.wasm.framework.unityweb",
